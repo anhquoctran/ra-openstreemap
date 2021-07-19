@@ -1,0 +1,36 @@
+{
+  "name": "ra-openstreetmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf dist && tsc --build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhquoctran/ra-openstreetmap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhquoctran/ra-openstreetmap/issues"
+  },
+  "homepage": "https://github.com/anhquoctran/ra-openstreetmap#readme",
+  "devDependencies": {
+    "@types/leaflet": "^1.7.4",
+    "@types/react": "^17.0.14",
+    "rimraf": "^3.0.2",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "ra-core": "^3.17.0",
+    "react": "^17.0.2",
+    "react-admin": "^3.17.0",
+    "react-final-form": "^6.5.3",
+    "react-leaflet": "^3.2.0"
+  }
+}
