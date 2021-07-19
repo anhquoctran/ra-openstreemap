@@ -1,4 +1,4 @@
-# A `<OpenStreetMapInput/>` component for `react-admin`
+## A `<OpenStreetMapInput/>` component for `react-admin`
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anhquoctran/ra-openstreetmap/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/anhquoctran/ra-openstreetmap/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anhquoctran/ra-openstreetmap/stargazers/) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/anhquoctran/ra-openstreetmap/issues/) [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/anhquoctran/ra-openstreetmap)
 
